@@ -1,6 +1,7 @@
 DESCRIPCIÓN
 ========
 Breve descripción de la aplicación.
+Servicios de login en Node
 
 PRE-REQUISITOS
 ========
