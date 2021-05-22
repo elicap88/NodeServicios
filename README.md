@@ -1,6 +1,6 @@
 DESCRIPCIÓN
 ========
-Breve descripción de la aplicación.
+
 Servicios de login en Node
 
 PRE-REQUISITOS
@@ -24,7 +24,7 @@ Pasos a seguir para realizar modificaciones a la aplicación.
 
 AUTORES
 ========
-Autores
+Eliana Pina
 
 COPYRIGHT
 ========
